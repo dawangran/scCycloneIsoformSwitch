@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-@File    :   isoformswith.py
+@File    :   isoformswitch.py
 @Time    :   2024/05/29 13:39:55
 @Author  :   Dawn
 @Version :   1.0
-@Desc    :   Isoformswith for single cell
+@Desc    :   Isoformswitch for single cell
 """
 
 
